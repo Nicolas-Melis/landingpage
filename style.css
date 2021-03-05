@@ -1,0 +1,123 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.btn-primary {
+  background-color: aqua;
+  color: red;
+}
+
+.col-lg-4{
+  text-align: center;
+  padding: 10px;
+  padding-top: 50px;
+}
+
+h2, p{
+  text-align: center;
+  padding-top: 20px;
+  font-family: garamond;
+
+}
+
+p{
+  font-size: 22px;
+}
+
+h2{
+  font-size: 35px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h3{
+  font-size: 32px;
+  font-family: garamond;
+  font-weight: bold;
+}
+
+
+
+
+
+body
+{
+    font-family: 'Lato', sans-serif;
+    margin: 70px 0px;
+}
+
+.heading
+{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#contact-form
+{
+    font-size: 20px;
+    border: 5px;
+    padding: 40px;
+    border-radius: 10px;
+    width: 600px;
+    
+}
+/*---  NEW  ------*/
+.black
+{
+    color: black;
+}
+.form-control
+{
+    height: 50px;
+    font-size: 18px;
+}
+#contact-form input[type=submit]
+{
+    margin: 40px auto 0px;
+    display: block;
+}
+.comments
+{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px
+}
+#contact-form .thank-you
+{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+.button1
+{
+    border: 1px solid black;
+    background: #d3c37b;
+    color: white;
+    width: 50%;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 0.3s ease-in 0s;
+}
+.button1:hover
+{
+    background: #333;
+    border-color: #d3c37b;
+}
+
+.container{
+  text-align: center;
+}
